@@ -1,0 +1,13 @@
+{
+  "name": "compression images",
+  "version": "1.0.0",
+  "description": "Utility  images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Charles Ortega",
+  "license": "ISC"
+}
