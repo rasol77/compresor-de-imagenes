@@ -7,5 +7,4 @@ node index.js --inputDir=images --outputDir=result --watermark=WaterMark.jpg --r
 # Modulos de npm
 
 - minimist
-- chalk
 - sharp
